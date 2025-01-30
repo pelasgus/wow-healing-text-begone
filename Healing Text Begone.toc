@@ -1,0 +1,4 @@
+## Interface: 110000
+## Title: Healing Text Begone
+## Author: D.A.Pelasgus
+core.lua
